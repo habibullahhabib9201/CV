@@ -1,0 +1,18 @@
+a{
+    color: black;
+}
+.name{
+    height: 220px;
+    width: auto;
+    background-color: darkcyan;
+    color: #fff;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+}
+.name img{
+    width: 150px;
+    height: auto;
+    border-radius: 40%;
+}
